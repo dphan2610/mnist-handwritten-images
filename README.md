@@ -4,8 +4,8 @@
 
 Label is in the image file name. Example:
 
-img_6_089.png => Image with digit 6
+img_6_089.png => digit-6 image
 
-img_9_05934.png => Image with digit 9
+img_9_05934.png => digit-9 image
 
 Source: http://yann.lecun.com/exdb/mnist/
