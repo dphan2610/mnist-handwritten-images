@@ -4,7 +4,7 @@
 
 Label is in the image file name. Example:
 
-img_6_089.png => digit-6 image
+img_6_0420.png => digit-6 image
 
 img_9_05934.png => digit-9 image
 
