@@ -5,6 +5,7 @@
 Label is in the image file name. Example:
 
 img_6_089.png => Image with digit 6
+
 img_9_05934.png => Image with digit 9
 
 Source: http://yann.lecun.com/exdb/mnist/
